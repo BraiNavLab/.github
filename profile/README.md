@@ -1,4 +1,6 @@
 # BraiNavLab official GitHub
+check out our ![website](http://profs.sci.univr.it/~menegaz/index.html) 
+#
 
 The mission of the **BraiNAVLab** is investigating and modeling the **brain structure and function**, as well as their associations with the underlying genetic determinants relying on statistical/machine and deep learning methods. The main current research activities focus on modeling **structural/functional/effective connectivity, brain microstructure, imaging genetics and brain computer interfaces (BCI)**.
 
